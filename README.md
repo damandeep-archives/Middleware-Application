@@ -1,6 +1,6 @@
 # Middleware-Application
 -> Basic Express middleware application that serves files from folder based on users's requests.
--> User can request any file which is present in 'static' folder.
+-> User can request (in the url) any file which is present in 'static' folder.
 
 Usage:-
 -> npm install.
